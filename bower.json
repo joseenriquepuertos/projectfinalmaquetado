@@ -1,0 +1,18 @@
+{
+  "name": "projectfinal",
+  "homepage": "https://github.com/lopezfher/projectfinal",
+  "description": "My First siteweb",
+  "main": "index.html",
+  "authors": [
+    "fernando sosa lopez"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
